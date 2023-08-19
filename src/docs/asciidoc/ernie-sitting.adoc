@@ -333,7 +333,7 @@ Portland, OR 97266 +
 
 === What dog food does Ernie eat?
 
-Ernie eats 1/2 cup of https://www.frommfamily.com/products/dog/gold/dry/#adult-gold[Fromm's Adult Gold dry kibble,window=_blank] twice daily, roughly 12 hours apart.
+Ernie eats 1/2 cup of https://frommfamily.com/products/dog/gold/dry/adult-gold/[Fromm's Adult Gold dry kibble,window=_blank] twice daily, roughly 12 hours apart.
 
 === Why does Ernie's butt smell like fish?
 
