@@ -2,7 +2,7 @@
 :toc: left
 :icons: font
 
-== It's Ernie Time! 🐾
+== 🐾 It's Ernie Time!
 
 Hello, and thank you for watching Ernie!
 
@@ -15,7 +15,7 @@ but like every dog, he has moments of exuberance.
 
 This guide is written with the intent to help you better understand Ernie for his and your benefit.
 
-=== Personality 🐕
+=== 🐕 Personality
 
 Ernie is a sweetie who loves from afar.
 He loves to be around people, but he has a bubble of personal space around him.
@@ -47,7 +47,7 @@ Ernie's intuition will kick in,
 and he will begin to walk towards the subject,
 offering kisses to atone for any stress he may have caused.
 
-== Introducing Ernie to Your Home 🏠
+== 🏠 Introducing Ernie to Your Home
 
 As Ernie becomes part of your home, expect him to do a lot sniffing.
 He will explore as much as he can.
@@ -64,7 +64,7 @@ Here are a couple of things you can do to ensure Ernie's introduction to your ho
 
 Doing these simple things manages expectations and ensures that Ernie is able to explore safely.
 
-== Daily Routine 📝
+== 📝 Daily Routine
 
 Below is the schedule typically followed at home on any given day.
 
@@ -87,7 +87,7 @@ Instead, use it as a guide and to better understand what Ernie may be expecting.
 * 6:00 PM -- Dinner!
 * 7:00&thinsp;&ndash;&thinsp;9:00 PM -- Post-dinner zoomies, play, and bonding
 
-=== Morning ☕
+=== 🌄 Morning
 
 Ernie may get close to you in the morning and snuggle.
 In fact, pretty much the only time he is willing to snuggle is in the morning (hint: take advantage of it!).
@@ -95,7 +95,7 @@ In fact, pretty much the only time he is willing to snuggle is in the morning (h
 If you awake to the sound of Ernie licking the bed sheets (or you!), he likely needs to relieve himself.
 We believe this is a coping mechanism for holding his bladder.
 
-=== Potty Time 🚽
+=== 🚽 Potty Time
 
 When dropping off Ernie, you should receive doorbells.
 Ernie has been trained to ring these bells when he has to go potty.
@@ -111,13 +111,13 @@ If you walk him in the morning and evening,
 you likely won't have to worry about cleaning up his love offerings in your back yard.
 ====
 
-=== Playtime Activities ⚽
+=== ⚽ Playtime Activities
 
 Ernie loves to play fetch, especially with a squeaky ball.
 If really likes it when you kick the ball, but be careful!
 Ernie likes to get real close to the ball as you kick it.
 
-=== Leaving Ernie Home Alone 🏃
+=== 🏃 Leaving Ernie Home Alone
 
 Ernie can be left alone in your home for up to five hours.
 Before leaving him, close the doors or block off the entryways to rooms you don't want him in.
@@ -131,7 +131,7 @@ go to the door you will be exiting through,
 say, "`<<command-im-leaving,I'm leaving>>. <<command-take-it,Take it!>>`"
 exit while he searches for the treats.
 
-=== Bedtime 💤
+=== 💤 Bedtime
 
 Before heading to bed, there are two things that are usually done.
 
@@ -155,7 +155,7 @@ If this is not desirable, you will need to close your bedroom door.
 He may whine a little bit, but don't give in.
 He will eventually find another spot in the house to settle down for the night.
 
-== Feeding & Amounts 🍲
+== 🍲 Feeding & Amounts
 
 Ernie should be fed two meals daily, roughly 12 hours apart.
 Each meal should be 3/4 cups of dry kibble.
@@ -179,7 +179,7 @@ If you do decide to supplement his diet with the above suggestions,
 use it as an opportunity to exercise the commands he knows.
 We generally prefer that he has to "`work`" for his extra feedings.
 
-== Communicate With Ernie! 💬
+== 💬 Communicate With Ernie!
 
 Ernie knows multiple languages.
 Most of the English phrases he knows can be substituted with physical gestures.
@@ -289,7 +289,7 @@ Often used on walks when he sees cats or squirrels.
 |Pick up something in his mouth
 |===
 
-=== Reprimand 👎
+=== 👎 Reprimand
 
 Ernie has been trained with positive enforcement and redirection techniques.
 If he is in a place he shouldn't be, redirect him to the place where he should be and block off the place where he was.
@@ -303,7 +303,7 @@ He may look like a Muppet, but he's actually pretty intuitive and smart.
 We didn't train him to respond to "`no,`" so repeating "`no`" won't cause the response you're looking for.
 ====
 
-== Nicknames 😊
+== 😊 Nicknames
 
 Ernie has many nicknames around the house.
 Here are some of them.
@@ -319,14 +319,14 @@ Here are some of them.
 * Yitzhak
 * Barky von Schnauzer Pootz
 
-== Veterinarian Contact 🏥
+== 🏥 Veterinarian Contact
 
 Mt. Scott Animal Clinic +
 8401 SE Ellis Street +
 Portland, OR 97266 +
 (503) 777-3919
 
-== FAQs 🙋
+== 🙋 FAQs
 
 === What dog food does Ernie eat?
 
