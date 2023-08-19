@@ -1,0 +1,45 @@
+= Dog Sitting Ernie: Drop-off/Pick-up Checklist
+:icons: font
+:imagedir: img
+
+== It's Ernie Time! 🐾
+
+Thank you for watching Ernie!
+
+Below is some help information about Ernie and his arrival and departure.
+
+=== Arrival Checklist 🛬
+
+* [ ] 6 servings (or 3 days) of kibble
+* [ ] Bed
+* [ ] Collar
+* [ ] Leash
+* [ ] Bells (to hang on the door you'd like him to go out of when he needs to go potty)
+* [ ] Tote bag containing ...
+** [ ] Collapsible water bowl
+** [ ] Treats
+** [ ] Plush toy seal ("`Mr. Seal`")
+** [ ] Plush toy koi ("`Mr. Koi`")
+** [ ] Brush
+** [ ] Small towel
+
+=== Departure Checklist 🛫
+
+* [ ] Remaining kibble, if any
+* [ ] Bed
+* [ ] Collar
+* [ ] Leash
+* [ ] Bells
+* [ ] Tote bag containing ...
+** [ ] Collapsible water bowl
+** [ ] Remaining treats, if any
+** [ ] Plush toy seal ("`Mr. Seal`")
+** [ ] Plush toy koi ("`Mr. Koi`")
+** [ ] Brush
+** [ ] Small towel
+
+=== Helpful Information ℹ️
+
+Ernie's dog sitting guide: https://k-mack.gitlab.io/blog/ernie-sitting
+
+image::{imagedir}/ernie-sitting-qr-code.png[]
