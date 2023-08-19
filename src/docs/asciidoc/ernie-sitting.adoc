@@ -6,7 +6,7 @@
 
 Hello, and thank you for watching Ernie!
 
-Ernie is a 2-year old Australian Labradoodle who
+Ernie is a 4-year old Australian Labradoodle who
 loves people,
 gets along with other dogs,
 and desperately wants to play with cats.
@@ -24,9 +24,9 @@ he just likes his space.
 We chalk it up to him being hot-bodied.
 
 Although usually quiet, Ernie will sound the alarm when
-he spots the mailperson,
+he spots the mail carrier,
 hears your front gate open,
-or sees other dogs walk by from inside.
+or sees other dogs walk by from an inside window.
 His bark is surprisingly loud and guttural.
 This makes him a great guard dog.
 Turning on a TV and setting the volume to low may be enough to cover up those suspicious sounds.
@@ -49,18 +49,19 @@ offering kisses to atone for any stress he may have caused.
 
 == 🏠 Introducing Ernie to Your Home
 
-As Ernie becomes part of your home, expect him to do a lot sniffing.
-He will explore as much as he can.
+As Ernie becomes part of your home, he will do a lot of sniffing around.
+He will explore as much as he can to understand his new surroundings.
 If there is food on the floor, he will find and eat it!
 He will also inspect all the dog toys he can.
+The first time he goes in your yard, he will do a fair bit of marking.
 
 Here are a couple of things you can do to ensure Ernie's introduction to your home goes well.
 
 .To-dos before Ernie enters your home for the first time
 * If you don't want Ernie to go into a room, block it off
   (e.g., close the entry door, block the entry with a gate)
-* Put away your kitchen garbage can or at least put a lid on it
-* Put away your dog's toys, bones, and treats
+* Put away garbage cans or at least put a lid on them
+* Put away your dog's toys, bones, and treats (unless they're fair game)
 
 Doing these simple things manages expectations and ensures that Ernie is able to explore safely.
 
@@ -76,14 +77,14 @@ Instead, use it as a guide and to better understand what Ernie may be expecting.
 ====
 
 .Morning
-* 6:00&thinsp;&ndash;&thinsp;10:00 AM -- Breakfast
-* 9:00 AM -- Walk
+* 6:30 AM -- <<command-get-busy,Potty>>, followed by breakfast
+* 9:00 AM -- Walk and <<command-poop-poop,the other potty>>
 
 .Afternoon
-* 12:00&thinsp;&ndash;&thinsp;12:30 PM -- Short treat training session, followed by playtime and bonding
+* 12:00 PM -- Dental bone
 
 .Evening
-* 3:30/4:00&thinsp;&ndash;&thinsp;5:30 PM -- Brentwood dog park / Lane school yard
+* 3:30 PM -- Walk
 * 6:00 PM -- Dinner!
 * 7:00&thinsp;&ndash;&thinsp;9:00 PM -- Post-dinner zoomies, play, and bonding
 
@@ -97,7 +98,7 @@ We believe this is a coping mechanism for holding his bladder.
 
 === 🚽 Potty Time
 
-When dropping off Ernie, you should receive doorbells.
+When dropping off Ernie, you may receive doorbells.
 Ernie has been trained to ring these bells when he has to go potty.
 Simply hang the bells from the handle of the door that you want Ernie to go out of.
 Be sure that Ernie watches you put the bells on the door so he knows what door to go to.
@@ -114,22 +115,25 @@ you likely won't have to worry about cleaning up his love offerings in your back
 === ⚽ Playtime Activities
 
 Ernie loves to play fetch, especially with a squeaky ball.
-If really likes it when you kick the ball, but be careful!
-Ernie likes to get real close to the ball as you kick it.
+He really likes it when you kick the ball, but be careful:
+Ernie likes to get real close to the ball as you kick it!
 
 === 🏃 Leaving Ernie Home Alone
 
 Ernie can be left alone in your home for up to five hours.
 Before leaving him, close the doors or block off the entryways to rooms you don't want him in.
 If you're going to leave food on the counters, push it back so that he can't reach it.
-Also, take him outside and say, "`<<command-get-busy,Get busy>>.`"
+Also, before you go, take him outside and say, "`<<command-get-busy,Get busy>>.`"
 
-It's now time for what we call the "`I'm Leaving Protocol`":
+The best way to leave Ernie is to decisively walk out the door without interacting with him.
+If he senses you're preparing to leave, he may whine or bark.
+If you feel like you need to calm him down before leaving,
+try the "`I'm Leaving Protocol`":
 Tell Ernie to <<command-wait,wait>>,
 spread a handful of treats around the house,
 go to the door you will be exiting through,
-say, "`<<command-im-leaving,I'm leaving>>. <<command-take-it,Take it!>>`"
-exit while he searches for the treats.
+say, "`<<command-im-leaving,I'm leaving>>. <<command-take-it,Take it!>>`".
+Exit while he searches for the treats.
 
 === 💤 Bedtime
 
@@ -139,26 +143,26 @@ First, be sure that Ernie goes potty.
 The routine we use is to turn off the TV,
 say the phrase, "`time for bed, time to <<command-get-busy,get busy>>,`"
 and let him outside.
-If he looks a little dazed and confused -- likely because you woke him from a nap -- then repeat, "`time to get busy.`"
-If all goes well, he will relieve himself.
-If he doesn't do anything, don't push it;
-that's likely him telling you he's good on that front.
+If he looks a little dazed and confused -- likely because you woke him -- then repeat, "`<<command-get-busy,get busy>>`"
+Keep insisting until he goes potty.
+If he doesn't go before you turn in for the time, he will almost certainly wake you up around 5 AM to go.
 
 Second, give him a couple of small treats.
-This helps settle is his stomach overnight.
+This helps settle his stomach overnight.
 On rare occasions, he has vomited frothy liquid in the morning.
 His veterinarian believes this is due to a build up of excessive stomach acid.
 Giving him a couple of small treats before bedtime gives something for that acid to work on while he sleeps.
 
 Ernie sleeps on our bed at home, so he will likely want to be on the bed with you.
+If you prefer for him to be on the floor of your bedroom, move his bed to your room.
 If this is not desirable, you will need to close your bedroom door.
 He may whine a little bit, but don't give in.
 He will eventually find another spot in the house to settle down for the night.
 
 == 🍲 Feeding & Amounts
 
-Ernie should be fed two meals daily, roughly 12 hours apart.
-Each meal should be 3/4 cups of dry kibble.
+Ernie is to be fed two meals daily, roughly 12 hours apart.
+Each meal is to be 1/2 cup of the provided dry kibble served in his slow feeder bowl.
 
 Ernie has the stomach of a Labrador Retriever.
 He will eat whatever you are eating,
@@ -177,7 +181,7 @@ However, there are healthy ways to supplement his diet:
 
 If you do decide to supplement his diet with the above suggestions,
 use it as an opportunity to exercise the commands he knows.
-We generally prefer that he has to "`work`" for his extra feedings.
+We prefer that he has to "`work`" for his extra feedings.
 
 == 💬 Communicate With Ernie!
 
@@ -193,12 +197,12 @@ Follow the marker word with either a treat or some good rubs.
 [TIP]
 ====
 If you issue a command to Ernie while he is giving you his full attention and he does not respond,
-try not repeat the command.
+try not to repeat the command.
 Repeating the command multiple times in a short amount of time diminishes its significance.
 Instead, change your presence to make it clear you are expecting something from him:
-stand up a little taller;
-move your head up _or_ down (don't nod);
-if giving a gesture, gently emphasize it by moving your hand up _or_ down (don't wave).
+stand up a little taller,
+or move your head up _or_ down (don't nod).
+If giving a gesture, gently emphasize it by moving your hand up _or_ down (don't wave).
 The point of this is to give him time to think and process the situation.
 It also asserts dominance in a non-aggressive way.
 If he doesn't respond as you expect, then repeat the command.
@@ -208,28 +212,6 @@ If he doesn't respond as you expect, then repeat the command.
 [cols="2,5,5"]
 |===
 |Phrase |Gesture |Desired Response
-
-|Sit
-|Pinch all fingers of one hand together to form a point, turn the hand point-side up
-|Butt to the ground, eyes looking at you
-
-|Down
-|Make a fist in one hand, turn hand palm-side down, lower fist slightly
-|Lay down, eyes looking at you
-
-|[[command-wait]]Wait
-|Open one hand, fingers spread, palm facing Ernie
-|Waits until you approach him and touch his collar
-
-|Halt
-|_None_
-|Stops moving.
-Best used on walks (e.g., stopping before crossing a street).
-Often followed by "`<<command-wait,wait>>`" when off leash to emphasize the desired response.
-
-|Take it
-|_None_
-|Takes whatever the subject of the action is (e.g., a treat or toy)
 
 |Bring it back
 |Stretch one arm out, bend at the elbow and bring your hand back to your shoulder
@@ -241,18 +223,44 @@ Fallback to "`<<command-come,come>>`".
 |Stretch arm out to side and make a fist. As Ernie comes closer, lower fist in front of you.
 |Comes to you and places his nose near the fist.
 
+|Down
+|Make a fist in one hand, turn hand palm-side down, lower fist slightly
+|Lay down, eyes looking at you
+
+|Drop it
+|_None_
+|Drop whatever is in his mouth
+
 |[[command-get-busy]]Get busy
 |_None_
 |Go to the bathroom (usually pee)
+
+|Go for a walk
+|_None_
+|Get ready for a walk!
+
+|Halt
+|_None_
+|Stops moving.
+Best used on walks (e.g., stopping before crossing a street).
+Often followed by "`<<command-wait,wait>>`" when off leash to emphasize the desired response.
+
+|[[command-im-leaving]]I'm leaving
+|_None_
+|Prepare to be left alone
+
+|[[command-its-okay]]It's okay
+|_None_
+|Reduce suspicion or anxiety associated with whatever he is focused on
 
 |Jump
 |Open hand, turn palm to sky, move hand up towards sky in a quick movement
 |Jumps, usually up and at the person
 
-|[[command-turn-around]]Turn around
-|Extend hand out, point a finger down, rotate finger clockwise
-|Turns 360&deg; clockwise.
-Often followed by "`<<command-other-way,other way>>`".
+|[[command-leave-it]]Leave it
+|_None_
+|Leave whatever he is getting into or going after.
+Often used on walks when he sees cats or squirrels.
 
 |[[command-other-way]]Other way
 |Extend hand out, point a finger down, rotate finger counter clockwise
@@ -263,30 +271,30 @@ Often preceded by "`<<command-turn-around,turn around>>`".
 |Point in direction of mat
 |Goes to mat and lies down
 
-|Go for a walk
+|[[command-poop-poop]]Poop, poop
 |_None_
-|Get ready for a walk!
+|You already know
 
-|Drop it
-|_None_
-|Drop whatever is in his mouth
+|Sit
+|Pinch all fingers of one hand together to form a point, turn the hand point-side up
+|Butt to the ground, eyes looking at you
 
-|Leave it
+|Take it
 |_None_
-|Leave whatever he is getting into or going after.
-Often used on walks when he sees cats or squirrels.
+|Takes whatever the subject of the action is (e.g., a treat or toy)
 
-|[[command-its-okay]]It's okay
-|_None_
-|Reduce suspicion or anxiety associated with whatever he is focused on
-
-|[[command-im-leaving]]I'm leaving
-|_None_
-|Prepare to be left alone
+|[[command-turn-around]]Turn around
+|Extend hand out, point a finger down, rotate finger clockwise
+|Turns 360&deg; clockwise.
+Often followed by "`<<command-other-way,other way>>`".
 
 |[[command-take-it]]Take it
 |Point towards the object that he is to pick up
 |Pick up something in his mouth
+
+|[[command-wait]]Wait
+|Open one hand, fingers spread, palm facing Ernie
+|Waits until you approach him and touch his collar
 |===
 
 === 👎 Reprimand
@@ -309,15 +317,10 @@ Ernie has many nicknames around the house.
 Here are some of them.
 
 .Nicknames
-* Black Bear
-* BB (short for Black bear)
+* Black Bear or BB
 * Ernst
 * Sir Sighs A Lot
 * Hemingway
-* Arnie
-* Yeti
-* Yitzhak
-* Barky von Schnauzer Pootz
 
 == 🏥 Veterinarian Contact
 
@@ -330,17 +333,19 @@ Portland, OR 97266 +
 
 === What dog food does Ernie eat?
 
-Ernie eats 3/4 cup of https://www.frommfamily.com/products/dog/gold/dry/#adult-gold[Fromm's Adult Gold dry kibble,window=_blank] twice daily, roughly 12 hours apart.
+Ernie eats 1/2 cup of https://www.frommfamily.com/products/dog/gold/dry/#adult-gold[Fromm's Adult Gold dry kibble,window=_blank] twice daily, roughly 12 hours apart.
 
 === Why does Ernie's butt smell like fish?
 
 Anal glands have feelings too.
-After a couple of good 💩s, his butt should be back to smelling like a ... butt.
+After a couple of good 💩s, his butt should be back to smelling like ass.
 
 === Why is Ernie sitting close to me and staring like he wants something?
 
 Is it sometime around 9 AM or 3:30 PM?
 If so, Ernie is likely expecting to go on a walk.
+Is it sometime around 5 PM?
+If so, he is likely looking for dinner (even though he gets fed at 6 PM).
 
 === Why doesn't Ernie snuggle with me?
 
@@ -359,7 +364,7 @@ Leftover human food? No.
 
 === Does Ernie have any food restrictions?
 
-Not that we know of.
+Beef-based treats seem to not agree with him anymore, so avoid those if you can.
 If you think he is having a bad reaction to something he ate,
 please <<_veterinarian_contact,contact his Veterinarian>>.
 
@@ -372,3 +377,17 @@ No.
 This usually happens if his diet is too diverse.
 If you have been feeding him a variety of different treats,
 dial it back so he's just getting his kibble and training treats.
+
+=== Ernie seems to be aggressive towards other dogs while on walks. What's up with that?
+
+This is relatively new behavior.
+The best way to keep this from happening is to carry treats with you while walking him.
+If you see a dog that is the size of Ernie or larger, distract him with treats as you walk by the dog.
+Try to start this distraction before Ernie becomes interested in the other dog.
+If Ernie isn't responding to the treats, sternly say "`Ernie, <<command-leave-it,leave it>>.`"
+
+=== Can I take Ernie to the dog park?
+
+Yes.
+Ernie does very well off leash.
+He can get kind of grumpy with larger, fluffier dogs, but we've never had an issue at a dog park.
