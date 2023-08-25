@@ -245,6 +245,11 @@ Fallback to "`<<command-come,come>>`".
 Best used on walks (e.g., stopping before crossing a street).
 Often followed by "`<<command-wait,wait>>`" when off leash to emphasize the desired response.
 
+|Hop up
+|With your palm facing upwards, extend your hand over the object you want Ernie to hop up onto.
+Move hand upwards.
+|Hop up onto the object under your hand (e.g., bed, couch, tree stump)
+
 |[[command-im-leaving]]I'm leaving
 |_None_
 |Prepare to be left alone
@@ -278,6 +283,10 @@ Often preceded by "`<<command-turn-around,turn around>>`".
 |Sit
 |Pinch all fingers of one hand together to form a point, turn the hand point-side up
 |Butt to the ground, eyes looking at you
+
+|Stand
+|Pinch all fingers of one hand together to form a point, turn the hand point-side up, move the hand upwards
+|Stand on hind legs, usually with front legs raised to the sky
 
 |Take it
 |_None_
